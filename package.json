@@ -1,0 +1,22 @@
+{
+  "name": "stepRunner",
+  "version": "1.0.0",
+  "description": "Step Runner for Tasks",
+  "main": "_build/stepRunner.js",
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.1",
+    "gulp-run": "^1.6.8",
+    "gulp-typescript": "^2.7.6",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "MIT"
+}
